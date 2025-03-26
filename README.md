@@ -1,9 +1,11 @@
-# BAAI Node System
+# BAAI FOCII Node 
 
 ## Project Structure
 
 ## Overview
 BAAI FOCII (Browser-based extension powered by AI) is a decentralized system that enables browser-based engagement analytics using Edge AI computation with zero-knowledge proofs and token rewards on Solana.
+
+<img width="787" alt="image" src="https://github.com/user-attachments/assets/ee70f21c-cd6f-4465-b4b9-9ee2929d144c" />
 
 ## Architecture
 
@@ -22,12 +24,12 @@ BAAI FOCII (Browser-based extension powered by AI) is a decentralized system tha
 ### Flow
 
 1. **Node License Creation**
-   - Users obtain a Basic Node License (NFT) through the BAAI FOCII Extension
-   - Each license is uniquely identified and tracked on-chain
+   - Users obtain a Basic Node License (NFT) through the BAAI FOCII Browser Extension
+   - Each license is uniquely identified and tracked on-chain (Solana)
 
 2. **Data Processing**
-   - Edge AI extracts features in the browser
-   - Data is encrypted and streamed to Lighthouse storage
+   - Edge AI extracts engagement features in the browser
+   - Data is encrypted and streamed to decentralized storage (Lighthouse)
    - Metadata is updated on the Node License NFT
 
 3. **Verification & Rewards**
